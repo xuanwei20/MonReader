@@ -1,0 +1,107 @@
+Text extracted from: C:\Users\User\Desktop\python vscode\project_4\data\raw\testing\flip\0001_000000020.jpg
+Audio file: Not saved
+==================================================
+ORIGINAL TEXT:
+==================================================
+ML
+} m
+yervelern olduğu ve bu servislerin hangi portlardan ayağa olka hay
+dolayı Nmap 1 açık 1 kapalı port bularak da işletim sistemi tesi 1 ele com yazıp ent bastığınızda ah nda arka planda ne:
+PİLİ yap nelik browsermm çk ud cubofunn Hipp
+tik. Arka planda Google elen ek ayağdak gibidir
+Firewall/1DS Atlatma Yöntemleri
+edef makinede firewall yani güvenlik duvarı devrede olay Güvenli,
+atlatmak için bazı yöntemler yardır. Bu yöntemler aşağıdaki gibidir, Da
+map -( 192.168.124: -f parametres İle paketleri parçalayıp Büvenlik duy, ————————
+masını sağlayabilirsiniz. ——  ——
+——
+a
+<——
+—
+nmap -MTU 576 192.168.1.34: -MTU parametresi ile istediğimiz Mry charsak ww google comirstesine HTTPILA pro
+atayabillyoruz. Buradaki örnekte MTU değerini $76 larak ayarlağığı AA öm imi ekli Maker
+a a eke eke Diğer satırlarda ba bilge
+map -D 192.168.1.21 192.168,1.34: -D parametresini IP. Spoofing işlemi çiy geri m isk abil wor eg oni be br yan
+anıyoruz. Hedef makineye IP adresimiz 192.168.1 21'miş gibi paket yalaya deri. Bu Siti Fee ii)
+Sher ayrcaitediimia) tle eit apace larak uu
+duğu çıktıyı gönderir
+Scan Sonuçlarını Dosyaya Aktarma a
+Yukarıda anlatılanlar talimatlar doğrultusunda Nmap seanininizi başlattınız, a gi? li
+Scan sonucunun terminalde ekrana basılması yerine bir dosyaya aktarmayı “4 ae
+teyebilirsintz. Nmap'i kodlayan abilerimiz bunları da düşünmüşler. Örnekler in — ————
+ae ee
+—— — mm
+map -4S -ON cikti txt 192.168.1.34: -ON parametresi, tarama sonuçlarını n ay e
+olarak cikti txt dosyasına kaydeder, eri oho yan görmeniz
+suz eml ml
+map =S —0X ciktl-xmul 192.168.134: -oX parametresi, tarama sonuçlar “Seen Taki pani
+formatında cikti xm) dosyasına kaydeder. e ayn koe
+map -s5 ~0G cikthtxt 192.168.1.342-06 para =
+lir bir Nmap çıktısı üretir. zi
+map -55 - 0 cikti 192.168,1,34:-0A
+nmap -resume cikti: -0A paramet Bin.
+bü komut ile işleme devam eu
+Yukarıdaki komutlara ek c hiz birçok =
+araç var, Bu araçların B
+« Xshproc i
+ag
+n
+’ SS
+SS
+Se
+NS =
+a =
+SS
+
+==================================================
+TRANSLATED TEXT (EN):
+==================================================
+ML
+}m
+where there are places and from which ports these services operate.
+Therefore, Nmap finds 1 open and 1 closed port and when you type com in the operating system tesi 1 and press enter, what happens in the background:
+Make the BATTERY nelik browsermm çk ud cubofunn Hipp
+tick. Google in the background is like a wretch
+Firewall/1DS Bypass Methods
+The firewall is activated on the target machine. Secure,
+There are some methods to bypass it. These methods are as follows,
+map -( 192.168.124: Shred the packets with the -f parameter and get security, ————————
+You can provide it. —— ——
+——
+a
+<——
+—
+nmap -MTU 576 192.168.1.34: Mry charsak ww google comirste to HTTPILA pro we want with -MTU parameter
+We can appoint. In the example here, Maker with the AA boonmark has set the MTU value to $76.
+a a eke eke Ba wise in other lines
+map -D 192.168.1.21 192.168,1.34: IP the -D parameter. Spoofing process dew back m isk abil wor eg oni be br side
+We commemorate. It sends the packet to the target machine as if our IP address is 192.168.1 21. Bu Siti Fee ii)
+Sher also flies as equal apace
+sends the output
+Transferring Scan Results to File a
+You started your Nmap session according to the instructions above, a gi? li
+You can transfer the scan result to a file instead of printing it on the terminal.
+You can try it. Our brothers who coded Nmap also thought about these. Examples in — ————
+ee ee
+—— — mm
+map -4S -ON output txt 192.168.1.34: -ON parameter converts scan results to n months
+It saves the output as txt file, you should see the data oho side
+water eml ml
+map =S —0X ciktl-xmul 192.168.134: -oX parameter, scan results “Seen Taki pani
+It saves the output in format to xm) file. e ayn koe
+map -s5 ~0G cikthtxt 192.168.1.342-06 money =
+lir produces an Nmap output. zi
+map -55 - 0 output 192.168,1,34:-0A
+nmap -resume output: -0A paramet Bin.
+Continue the process with this command
+In addition to the above commands c speed many =
+There are vehicles, B of these vehicles
+« Xshproc i
+ag
+n
+' SS
+SS
+Se
+NS =
+a =
+SS
